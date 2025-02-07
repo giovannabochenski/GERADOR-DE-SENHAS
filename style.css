@@ -6,7 +6,7 @@
   }
   
   body{
-    background-color: #f156d0;
+    background-color: pink;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -72,8 +72,8 @@
   
   .password{
     height: 60px;
-    background-color: rgb(253, 89, 253);
-    border: 1px solid #ff40d6fa;
+    background-color: pink;
+    border: 1px solid plum;
     
     display: flex;
     justify-content: center;
